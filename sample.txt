@@ -1,1 +1,9 @@
 连猴子都懂的Git命令
+
+git clone https://
+
+git add .
+
+git commit -m " 修复了BUG "
+
+git push origin master
